@@ -20,3 +20,8 @@ This project predicts customer churn using a dataset of subscription users. It i
 * Python (Pandas, Scikit-Learn)
 * Google Colab
 * Power BI
+
+Column Name,Description
+Tenure,Number of months the customer has been with the company.
+Contract_Type,"Month-to-month, One year, or Two year."
+Churn,"Target Variable (1 = Left, 0 = Stayed)."
